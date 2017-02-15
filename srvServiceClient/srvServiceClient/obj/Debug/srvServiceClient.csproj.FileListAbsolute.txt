@@ -1,0 +1,10 @@
+c:\users\abenitez.c-20001\documents\visual studio 2013\Projects\srvServiceClient\srvServiceClient\bin\Debug\srvServiceClient.exe.config
+C:\Users\abenitez.C-20001\Documents\Visual Studio 2013\Projects\srvServiceClient\srvServiceClient\bin\Debug\srvServiceClient.exe
+C:\Users\abenitez.C-20001\Documents\Visual Studio 2013\Projects\srvServiceClient\srvServiceClient\bin\Debug\srvServiceClient.pdb
+C:\Users\abenitez.C-20001\Documents\Visual Studio 2013\Projects\srvServiceClient\srvServiceClient\obj\Debug\srvServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\abenitez.C-20001\Documents\Visual Studio 2013\Projects\srvServiceClient\srvServiceClient\obj\Debug\srvServiceClient.Form1.resources
+C:\Users\abenitez.C-20001\Documents\Visual Studio 2013\Projects\srvServiceClient\srvServiceClient\obj\Debug\srvServiceClient.Properties.Resources.resources
+C:\Users\abenitez.C-20001\Documents\Visual Studio 2013\Projects\srvServiceClient\srvServiceClient\obj\Debug\srvServiceClient.csproj.GenerateResource.Cache
+C:\Users\abenitez.C-20001\Documents\Visual Studio 2013\Projects\srvServiceClient\srvServiceClient\obj\Debug\srvServiceClient.exe
+C:\Users\abenitez.C-20001\Documents\Visual Studio 2013\Projects\srvServiceClient\srvServiceClient\obj\Debug\srvServiceClient.pdb
+C:\Users\abenitez.C-20001\Documents\Visual Studio 2013\Projects\srvServiceClient\srvServiceClient\bin\Debug\Newtonsoft.Json.dll
